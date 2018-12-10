@@ -1,0 +1,25 @@
+{
+  "name": "sandbox.light.l16",
+  "version": "0.0.1",
+  "description": "Tooling for Light L16 and Lumen",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjwenger/sandbox.light.l16.git"
+  },
+  "keywords": [
+    "Lumen",
+    "Light",
+    "L16",
+    "photography"
+  ],
+  "author": "kjwenger@yahoo.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/kjwenger/sandbox.light.l16/issues"
+  },
+  "homepage": "https://github.com/kjwenger/sandbox.light.l16#readme"
+}
